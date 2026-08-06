@@ -1,5 +1,13 @@
-## Hi there 👋
 
+Hola, soy Facundo 👋
+
+Estudiante de Veterinaria con base en desarrollo de software, aprendiendo Python 
+aplicado a automatización para el sector agropecuario.
+
+🔭 Actualmente construyendo: herramientas para veterinarias y productores 
+(recordatorios de vacunación, control de stock, seguimiento de rodeo).
+
+🌱 Aprendiendo: Python, SQL, Git.
 <!--
 **facundoremiro/facundoremiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
